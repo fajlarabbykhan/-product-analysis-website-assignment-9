@@ -24,7 +24,7 @@ const NotFound = () => {
         <div>
           <div className='w-full h-full bg-gray-200 rounded-lg'>
             <img
-              src='https://thumbs.dreamstime.com/b/%C3%B0%C2%BF%C3%B0%C2%B5%C3%B1%E2%80%A1%C3%B0%C2%B0%C3%B1%E2%80%9A%C3%B1%C5%93-134036857.jpg'
+              src='https://img.freepik.com/free-vector/404-error-with-person-looking-concept-illustration_114360-7912.jpg?w=740&t=st=1649051694~exp=1649052294~hmac=6eb0937fa75afafaa39f9325c0411061f895b1dba707daae4bdba4363f78b328'
               alt=''
             />
           </div>
