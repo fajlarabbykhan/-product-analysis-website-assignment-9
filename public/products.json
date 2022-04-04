@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Nick",
+    "Ratings": "5 stars",
+    "Reviews": "Great product. Very satisfied with the quality. gave 2 things for free also as a courtesy ",
+    "img": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "2",
+    "name": "Irtalo",
+    "Ratings": "4 stars",
+    "Reviews": "Prompt delivery but one of the set is defective.",
+    "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "3",
+    "name": "Chole",
+    "Ratings": "5 stars",
+    "Reviews": "Pretty fast delivery. 100% original unit received. Device build quality and in hand feel is great.",
+    "img": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "4",
+    "name": "Justin",
+    "Ratings": "7 stars",
+    "Reviews": "Could improve your packaging with bubble wraps, especially for sensitive items like phones. Seems intact, yet to be opened",
+    "img": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "5",
+    "name": "Simon Robben",
+    "Ratings": "9 stars",
+    "Reviews": " Delivery timeline is impressive. Got it before the delivery schedule.",
+    "img": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "6",
+    "name": "Stefen",
+    "Ratings": "5 stars",
+    "Reviews": "Price was lower compared to market price. Packaging was good too.",
+    "img": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]
