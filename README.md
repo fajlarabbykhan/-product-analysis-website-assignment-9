@@ -1,10 +1,10 @@
 
-# Crypto Cafe Project Requirements
+# Hour Passion Project Requirements
 
 
   
 
-Crypto Cafe is a React Web App powered by [COINGECKO](https://www.coingecko.com/en/api/documentation) cryptocurrency API. Visitors can browse through the top 50 Crypto Currencies. Visitors can see details of a coin by clicking on the coin card.
+Hour Passion is a React Web App powered by Fake Data.
 
   
 
@@ -12,11 +12,11 @@ Crypto Cafe is a React Web App powered by [COINGECKO](https://www.coingecko.com/
 
 1.  Homepage
     
-2.  Coins Page
+2.  Reviews Page
     
-3.  Single Coin Details Page
+3.  DashBoard page
     
-4.  Contact Page
+4.  Blogs Page
     
 5.  About Page
     
@@ -38,13 +38,5 @@ Crypto Cafe is a React Web App powered by [COINGECKO](https://www.coingecko.com/
   
   
 
-## Resources:
+## Live Site Link:
 
-1.  Get all coin API: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=50&page=1&sparkline=false
-    
-2.  Get details of a coin by ID api: https://api.coingecko.com/api/v3/coins/${id}
-    
-
-3. Demo Site: [https://crypto-cafe.netlify.app](https://crypto-cafe.netlify.app)# crypto-cafe-starter
-
-4. Requirement Doc: [https://docs.google.com/document/d/1lqqNGPWOwLkiHWxXZiUeQcckQ-H0U-Lv4p_dtvFkqz0/edit?usp=sharing](https://docs.google.com/document/d/1lqqNGPWOwLkiHWxXZiUeQcckQ-H0U-Lv4p_dtvFkqz0/edit?usp=sharing)
