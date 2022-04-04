@@ -1,16 +1,36 @@
 import React from 'react'
-
 const Homepage = () => {
   return (
-    <div className='md:px-16 py-8'>
-      <div className='flex flex-col justify-center h-[80vh] items-center'>
-        <h1 className=' font-mono text-xl md:text-5xl '>
-          Welcome to CRYPTO CAFE
-        </h1>
-        <button className='py-2 px-3 text-white mt-3 rounded-full bg-cyan-600'>
-          Explore Coins
-        </button>
+    <div class="sm:flex justify-between py-7  ">
+      <div className='sm:order-last p-5'>
+        <img src="watch.jpg" className='border-solid border-2 border-indigo-600 rounded-md box-content  ' alt="" />
       </div>
+      <div className='justify-center ml-5 mr-5 p-5'>
+        <h1 className=' font-mono text-xl md:text-5xl text-blue-600'>
+          Authentic Tissot
+        </h1>
+        <h1 className=' font-mono text-xl md:text-5xl text-blue-600'>
+          Collections
+        </h1>
+        <div className='pt-5'>
+          <p className='leading-relaxed text-blue-500'>100% Authentic Money Back Guarantee</p>
+          <p className='leading-relaxed text-blue-500'>Movement: Swiss quartz</p>
+          <p className='leading-relaxed text-blue-500'>Energy: Quartz EOL</p>
+          <p className='leading-relaxed text-blue-500'>Dial color: silver</p>
+          <p className='leading-relaxed text-blue-500'>Model: ETA F06.115</p>
+          <p className='leading-relaxed text-blue-500'>Caliber: 11 1/2”’</p>
+          <p className='leading-relaxed text-blue-500'>Jewels: 3</p>
+
+
+        </div>
+        <div className='pt-4'>
+          <button className='py-2 px-3 text-white mt-3  bg-cyan-600 rounded-md '>
+            Buy Now
+          </button>
+        </div>
+
+      </div>
+
     </div>
   )
 }
