@@ -4,9 +4,7 @@
 
   
 
-Hour Passion is a React Web App powered by Fake Data.
-
-  
+Hour Passion is a React Web App powered by Fake Data. [</ Live Link>](https://reactjs.org/docs/getting-started.html)
 
 ## Total Pages: 06
 
@@ -38,5 +36,4 @@ Hour Passion is a React Web App powered by Fake Data.
   
   
 
-## Live Site Link:
-[</ link>] (https://reactrouter.com/docs/en/v6/getting-started/overview)
+
