@@ -1,6 +1,14 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import { useEffect, useState } from 'react';
+import Review from '../Review/Review';
 const Homepage = () => {
+  const [reviews, setReviews] = useState([])
+  useEffect(() => {
+    fetch('reviews.json')
+      .then(res => res.json())
+      .then(data => setReviews(data))
+  }, [])
 
   return (
     <div>
@@ -36,7 +44,17 @@ const Homepage = () => {
 
       </div>
       <div className='mt-8 mb-8 '>
-        <p className='text-center text-3xl font-bold text-gray'>Customer Reviews(3)</p>
+        <p className='text-center text-3xl font-bold text-gray'>Customer Reviews ({reviews.slice(0, 3).length})</p>
+        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-items-center'>
+          {
+            reviews !== undefined &&
+            reviews.slice(0, 3).map(review => <Review key={review.id} review={review}></Review>)
+
+          }
+        </div>
+
+
+
 
         <div className='pt-4  text-center'>
           <button className='py-2 px-3 text-white mt-3  bg-cyan-600 rounded-md '>
