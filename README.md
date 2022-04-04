@@ -24,7 +24,7 @@ Hour Passion is a React Web App powered by Fake Data. [</ Live Link>](https://re
   
   
 
-## Tech Stack:
+## Used Website:
 
 1.  React [</ Documentation>](https://reactjs.org/docs/getting-started.html)
     
