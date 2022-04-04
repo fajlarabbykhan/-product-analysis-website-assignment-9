@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
 const Blogs = () => {
+
     return (
         <div>
-            <h2>welcome to blogs</h2>
+            <h2>blogs page</h2>
         </div>
     );
 };
