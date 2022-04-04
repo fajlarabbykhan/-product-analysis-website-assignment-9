@@ -1,10 +1,7 @@
 
 # Hour Passion Project Requirements
 
-
-  
-
-Hour Passion is a React Web App powered by Fake Data. [</ Live Link>](https://reactjs.org/docs/getting-started.html)
+Hour Passion is a React Web App powered by Fake Data. [</ Live Link>](https://fajla-assignment-9.netlify.app/)
 
 ## Total Pages: 06
 
@@ -19,10 +16,6 @@ Hour Passion is a React Web App powered by Fake Data. [</ Live Link>](https://re
 5.  About Page
     
 6.  404 Not Found Page
-    
-
-  
-  
 
 ## Used Website:
 
@@ -31,9 +24,3 @@ Hour Passion is a React Web App powered by Fake Data. [</ Live Link>](https://re
 2.  Tailwind CSS [</ Documentation>](https://tailwindcss.com/docs/installation)
     
 3.  React Router Dom [</ Documentation>](https://reactrouter.com/docs/en/v6/getting-started/overview)
-    
-
-  
-  
-
-
